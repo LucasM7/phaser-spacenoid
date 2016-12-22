@@ -1,0 +1,7 @@
+{
+  "name": "phaser-ts-webpack-gulp",
+  "dependencies": {},
+  "globalDependencies": {
+    "phaser": "file:node_modules/phaser/typescript/typings.json"
+  }
+}

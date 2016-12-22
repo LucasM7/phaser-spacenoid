@@ -1,0 +1,24 @@
+{ "frames": {
+   "barra.png": {
+    "frame": { "x": 0, "y": 0, "w": 50, "h": 10 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 50, "h": 10 },
+    "sourceSize": { "w": 50, "h": 10 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.1.7",
+  "image": "C:\\Users\\IFCE\\Documents\\phaser-ts-webpack-gulp-master\\src\\assets\\barra-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 50, "h": 10 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ]
+ }
+}
